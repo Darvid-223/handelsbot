@@ -5,4 +5,4 @@ numpy==1.21.2
 
 Knn strategy
 Ema ribbon
-RSI
+RSI 40 60
